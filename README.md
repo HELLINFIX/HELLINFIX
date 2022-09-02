@@ -5,7 +5,9 @@
 - 📫 U can reach me by my email address mridulsharma57570@gmail.com  
 <img src="https://github.com/HELLINFIX/HELLINFIX/blob/2cf435e546f833d18236765a63ab05409b5f0756/asdf_stickers-512px-21.gif"
 width="200px" height="200px" align="right" style="padding-left: 0px; padding-right: 100px;">
-WELCOME
+
+                               WELCOME
+
 <img src="https://github.com/HELLINFIX/HELLINFIX/blob/3a2dc123e8d287e739ab37c57f0cf58af46ac622/asdf_stickers-512px-23.gif"
 width="200px" height="200px" align="left" style="padding-left: 100px; padding-right: 0px;">
 
