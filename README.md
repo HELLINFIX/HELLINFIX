@@ -2,8 +2,8 @@
 - 👀 I’m interested in learning new stuff                                                                             
 - 🌱 I’m currently a student of Shoolini University!     
 
-- 📫 U can reach me by my email address mridulsharma57570@gmail.com   ![asdf_stickers-128px-21](https://user-images.githubusercontent.com/111268251/188068235-78fad66a-d13e-42b7-879a-d821702d9306.gif)
-
+- 📫 U can reach me by my email address mridulsharma57570@gmail.com  
+<img src="![asdf_stickers-512px-21](https://user-images.githubusercontent.com/111268251/188068792-021903e9-c454-4aca-97b5-2226f53fa095.gif) width="200px" height="200px" align="right" style="padding-left: 0px; padding-right: 100px;">
 
 
 <!---
